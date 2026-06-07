@@ -1,4 +1,3 @@
-```markdown
 # Sensor Logger
 
 Simple, lightweight logging system for people count and temperature using SQLite3.
