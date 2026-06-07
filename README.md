@@ -113,6 +113,3 @@ The table includes `extra1`, `extra2`, and `notes` columns for future sensors (h
 ## License
 
 Free for personal and commercial use.
-```
-
-**Copy everything above (including the first ```markdown line up to the last ```) and save it as `README.md`.**
